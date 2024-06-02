@@ -4,20 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello ! This is nalipour
 
 
-![NilPoster](assets/images/nil_poster.jpg)
+<img src="{{ '/assets/images/Niloufar.jpg' | relative_url }}" alt="Example Image" style="float: left; width: 25%; margin-right: 20px; margin-bottom: 20px; height: auto;">
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Dr. Niloufar Alipour Tehrani, with a multifaceted background, possesses an unwavering passion for deriving meaningful insights from complexe data. After completing her B.Sc. & M.Sc. in Electrical and Electronic Engineering at EPFL in 2013, she pursued a Ph.D. in particle physics at ETHZ where she worked on the future generation of particle detectors for CERN’s post-LHC experiments. Her work on physics and computing was recognised by her scientific peers with the FCC Innovation Award. She now focuses on crafting cutting-edge AI solutions for industrial R&D.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

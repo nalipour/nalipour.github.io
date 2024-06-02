@@ -26,12 +26,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  nalipour
-icon: ⚛️
+icon:
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+
+input_directories:
+  - assets/img/
+
 
 
 # -----------------------------------------------------------------------------
@@ -49,7 +55,10 @@ rss_icon: true
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
+
+include: 
+- _pages
+
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
