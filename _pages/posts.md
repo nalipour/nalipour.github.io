@@ -1,7 +1,15 @@
 ---
-layout: post
+layout: default
 permalink: /posts/
 title: Posts
 ---
 
-Here you can find the posts
+<h1>Posts</h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span>{{ post.date | date: "%B %d, %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
