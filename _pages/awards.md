@@ -4,7 +4,7 @@ title: Awards
 permalink: /awards/
 ---
 
-- 2023: **Godmother of the graduating class** of Electrical Engineering @ EPFL
+- 2023: Godmother of the graduating class of Electrical Engineering @ EPFL
 - 2018: [**FCC Innovation Award**][link_FCC] @ Future Circular Collider experiment at CERN.
 - 2016: **CERN Fellowship Grant** @ CERN
 - 2009 - 2012: **Excellence Fellowship** @ EPFL
