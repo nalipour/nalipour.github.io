@@ -21,7 +21,7 @@ permalink: /publications/
 
 - 2016 - **Capacitively coupled hybrid pixel assemblies for the CLIC vertex detector**, Published in *Nucl Instruments and Methods in Physics Research Section A*, [DOI: 10.1016/j.nima.2016.03.072][link_publi_4]
 
-- 2016 - **CLIC vertex detector R\&D**, Published in *Nucl. Instrum. Meth. A824*, [DOI:~10.1016/j.nima.2015.08.072][link_publi_5]
+- 2016 - **CLIC vertex detector R&D**, Published in *Nucl. Instrum. Meth. A824*, [DOI:~10.1016/j.nima.2015.08.072][link_publi_5]
 
 [link_publi_1]: https://www.sciencedirect.com/science/article/pii/S0168900219312781
 [link_publi_2]: https://doi.org/10.3929/ethz-b-000164813 
