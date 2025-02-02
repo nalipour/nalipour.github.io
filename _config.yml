@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Niloufar ALIPOUR TEHRANI
+title: Lotus Metamorphosis 
 email: 
 linkedin: https://www.linkedin.com/in/nalipourtehrani/
 github: https://github.com/nalipour
@@ -36,6 +36,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jemoji
 
 
 input_directories:

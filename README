@@ -1,4 +1,8 @@
 Run jekyll:
 - bundle exec jekyll serve
+
 Where you can find the gem :gem: and minima theme:
 ~/.gem/ruby/3.4.1/gems/minima-2.5.2
+
+Create a new post:
+bundle exec jekyll post "My New Blog Post"
