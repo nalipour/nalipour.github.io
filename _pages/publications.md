@@ -10,6 +10,8 @@ permalink: /publications/
 
 - 2019 - **Performance evaluation of thin active-edge planar sensors for the CLIC vertex detector**, Published in *Nucl.Instrum.Meth.A*, [DOI:~10.1016/j.nima.2019.162850][link_publi_1]
 
+- 2019 - **Simulation and tracking studies for a drift chamber at the FCC-ee experiment**, [CERN FCC Publication][link_publi_7]
+
 - 2017 - **Test-beam measurements and simulation studies of thin
   pixel sensors for the CLIC vertex detector**, *Ph.D. thesis*,
   [DOI:~10.3929/ethz-b-000164813][link_publi_2]
@@ -30,3 +32,4 @@ permalink: /publications/
 [link_publi_4]: https://doi.org/10.1016/j.nima.2016.03.072
 [link_publi_5]: http://dx.doi.org/10.1016/j.nima.2015.08.072
 [link_publi_6]: https://cds.cern.ch/record/1606436 
+[link_publi_7]: https://cds.cern.ch/record/2670936/files/CERN-ACC-2019-0043.pdf

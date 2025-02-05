@@ -34,3 +34,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Emoji
 gem 'jemoji'
+
+gem "jekyll-feed", "~> 0.12"
+
+gem "jekyll-sitemap"
