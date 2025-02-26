@@ -5,7 +5,7 @@
 layout: home
 ---
 
-**Lotus**, inspired by my first name *Niloufar* نیلوفر (meaning :lotus:*waterlily*:lotus: in Persian), represents beauty, purity, and the potential for growth in the face of adversity. Much like the waterlily that rises from the mud to bloom in the sunlight, the lotus symbolizes the journey of self-discovery and transformation. 
+**Lotus**, inspired by my first name *Niloufar* نیلوفر (meaning :lotus:*waterlily*:lotus: in Persian), symbolizes beauty, purity, and resilience, representing the journey of self-discovery and transformation.
 
 **Metamorphosis**, inspired by Kafka's transformative tale, represents change—though in my context it’s a journey of continual progress, shedding old limitations, and embracing new knowledge and ideas.
 
